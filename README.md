@@ -26,8 +26,8 @@ This **File Management System API** is a backend service built using **Node.js, 
 ### 1️⃣ **Clone the Repository**
 
 ```sh
-git clone https://github.com/your-repo/file-management-api.git
-cd file-management-api
+git clone https://github.com/SurajGhodke/File-Management.git
+cd File-Management-api
 ```
 
 ### 2️⃣ **Install Dependencies**
@@ -54,7 +54,7 @@ npm start
 
 ### 5️⃣ **Test API in Postman**
 
-Import the Postman collection: [Postman API Collection](#)
+Import the Postman collection: [Postman API Collection](#https://drive.google.com/file/d/1Gcg5BJsOMlxH1iRhvU_s1UBFTi_fvfAf/view?usp=sharing)
 
 ## 🔥 API Endpoints
 
