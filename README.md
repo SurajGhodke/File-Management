@@ -54,7 +54,7 @@ npm start
 
 ### 5️⃣ **Test API in Postman**
 
-Import the Postman collection: [Postman API Collection](#https://drive.google.com/file/d/1Gcg5BJsOMlxH1iRhvU_s1UBFTi_fvfAf/view?usp=sharing)
+Import the Postman collection: [Postman API Collection](https://drive.google.com/file/d/1Gcg5BJsOMlxH1iRhvU_s1UBFTi_fvfAf/view?usp=sharing)
 
 ## 🔥 API Endpoints
 
